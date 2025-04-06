@@ -1,16 +1,17 @@
 ## Hi there 👋
+- Software engineer at Disney Streaming 
+- Open Source Contributor and Maintainer for some fun projects, including [pysqlscribe](https://pypi.org/project/pysqlscribe/), [pysquagg](https://github.com/danielenricocahall/pysquagg), and [elephas](https://github.com/danielenricocahall/elephas)
+- Occasionally blog on [Substack](https://substack.com/@dannycahall) and [Medium](https://danielcahall.medium.com/)
+- Background in machine learning and distributed computing:
+  - [Inception Modules Enhance Brain Tumor Segmentation](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2019.00044/full)
+  - [DIU-Net](https://arxiv.org/abs/2108.06772)
+  - [Elephas: Distributed Deep Learning with Keras & Spark](https://joss.theoj.org/papers/10.21105/joss.04073)
+- Currently located nearabouts Philadelphia
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-enrico-cahall/) or via email (danielenricocahall@gmail.com) to chat!
 
-<!--
-**danielenricocahall/danielenricocahall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Featured Projects
+Some of my code has been featured on podcasts!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [pysqlscribe](https://github.com/danielenricocahall/pysqlscribe) was featured on [Python Bytes: Episode 423](https://pythonbytes.fm/episodes/show/423/traveling-the-python-universe)
+AppleCrate featured on Python Bytes Episode 371
