@@ -13,5 +13,4 @@
 ## Featured Projects
 Some of my code has been featured on podcasts!
 
-- [pysqlscribe](https://github.com/danielenricocahall/pysqlscribe) was featured on [Python Bytes: Episode 423](https://pythonbytes.fm/episodes/show/423/traveling-the-python-universe)
-AppleCrate featured on Python Bytes Episode 371
+- [pysqlscribe](https://github.com/danielenricocahall/pysqlscribe) was featured on [Python Bytes: Episode 423](https://pythonbytes.fm/episodes/show/423/traveling-the-python-universe) and briefly mentioned again on [Python Bytes: Episode 427](https://pythonbytes.fm/episodes/show/427/rise-of-the-python-lord)
