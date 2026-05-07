@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Software engineer at Disney Streaming 
-- Open Source Contributor and Maintainer for some fun projects, including [pysqlscribe](https://pypi.org/project/pysqlscribe/), [lorcana-mcp](https://github.com/danielenricocahall/lorcana-mcp), [elephas](https://github.com/danielenricocahall/elephas), [sparkformers](https://github.com/danielenricocahall/sparkformers), and [dash-recording-components](https://github.com/danielenricocahall/dash-recording-components)
+- Open Source Contributor and Maintainer for some fun projects, including [pysqlscribe](https://pypi.org/project/pysqlscribe/), [lorcana-mcp](https://github.com/danielenricocahall/lorcana-mcp), [elephas](https://github.com/danielenricocahall/elephas), and [livefold](https://github.com/danielenricocahall/livefold)
 - Occasionally blog on [Substack](https://substack.com/@dannycahall) and [Medium](https://danielcahall.medium.com/)
 - Background in machine learning and distributed computing:
   - [Inception Modules Enhance Brain Tumor Segmentation](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2019.00044/full)
